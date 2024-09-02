@@ -36,7 +36,7 @@
 
             strings: [
                 "Hello, I'm Vrithika Boggarapu",
-                "Student",
+                "Student at CBIT",
                 "From Kothapet, Hyderabad",
               ],
               typeSpeed: 70,
